@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="flex justify-between m-2">
+  <h1>Home</h1>
+  <h1>CRMP</h1>
+  <h1>Menu</h1>
+</div>
+<h1>hi</h1>
